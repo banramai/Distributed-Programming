@@ -1,0 +1,17 @@
+First arg to Handler is: C:\Users\HP\Downloads\mimer-data (1).xyz
+
+<myDataArray>
+  <num__lines>7</num__lines>
+  <lines>
+    <string> </string>
+    <string></string>
+    <string>One partridge in a pear tree</string>
+    <string>Two turtle doves</string>
+    <string>Three French hens</string>
+    <string>Four calling birds</string>
+    <string>Five golden rings</string>
+    <null/>
+    <null/>
+    <null/>
+  </lines>
+</myDataArray>

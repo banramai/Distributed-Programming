@@ -1,0 +1,24 @@
+### Captured from wireshark
+
+
+GET /elliott/dog.txt HTTP/1.1\r\n
+Host: condor.depaul.edu\r\n
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:41.0) Gecko/20100101 Firefox/41.0\r\n
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8\r\n
+Accept-Language: en-US,en;q=0.5\r\n
+Accept-Encoding: gzip, deflate\r\n
+Connection: keep-alive\r\n
+
+
+HTTP/1.1 200 OK\r\n
+Date: Mon, 12 Oct 2015 00:33:42 GMT\r\n
+Server: Apache/2.2.3 (Red Hat)\r\n
+Last-Modified: Wed, 07 Oct 2015 20:29:55 GMT\r\n
+ETag: "30c78-30-521899bff76c0"\r\n
+Accept-Ranges: bytes\r\n
+Content-Length: 48\r\n
+Content-Type: text/plain\r\n
+Connection: close\r\n
+
+
+This is Elliott's dog file on condor. Good job!
